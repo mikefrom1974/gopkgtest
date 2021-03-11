@@ -1,0 +1,4 @@
+github.com/mikefrom1974/gopkgtest/data v0.0.0-20210311155251-61d20f8fabda h1:ZmWWPEt4cY5pmekfNxmKZxmqkepw5C2fL079ZcASZY8=
+github.com/mikefrom1974/gopkgtest/data v0.0.0-20210311155251-61d20f8fabda/go.mod h1:5i+Bkw7kTH+mt/Kr45gAEMRgnC5kDiZo9VV4N/qUDlc=
+github.com/mikefrom1974/gopkgtest/server v0.0.0-20210311164053-293b1d1b2329 h1:jBQrLbo05VnR4LVu2HCo6TzUjkvwX89oHOm1ii/6GwY=
+github.com/mikefrom1974/gopkgtest/server v0.0.0-20210311164053-293b1d1b2329/go.mod h1:Q3+V+WE+PbZlBEWqAFhSToC4xlw0MwTAxV58SFiBKws=
